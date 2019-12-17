@@ -9,6 +9,14 @@ stonefish = Animal.create(name: "Stonefish", scientific_name: "Synanceia verruco
 brown = Animal.create(name: "Brown Snake", scientific_name: "Pseudonaja textilis", location: "Eastern Australia", danger_level: 10, description: "The bite can be painless and difficult to detect. This is problematic because the venom can result in eventual paralysis and uncontrollable bleeding.")
 greatwhite = Animal.create(name: "Great White Shark", scientific_name: "Carcharodon carcharias", location: "Ocean Australia", danger_level: 10, description: "Vicous bites are administered by rows of up to 300 sharp and serrated triangular teeth.")
 funnel = Animal.create(name: "Sydney Funnel Web Spider", scientific_name: "Atrax robustus", location: "Sydney Australia", danger_level: 8, description: "The venom of a Sydney funnel web contains a neurotoxin component that affects the nervous system. The bite is very painful, and symptoms include sweating, tingling and muscle spasms.")
-
+ 
+honey = Animal.create(name: "Honey Bee", scientific_name: "Apis mellifera", location: "Sydney Australia", danger_level: 8, description: "kills via anaphylactic shock, usually obstructing airways")
+irukandji = Animal.create(name: "Irukandji Jellyfish", scientific_name: "Carukia barnesi", location: "Coastline Australia", danger_level: 7, description: "induces excruciating muscle cramps, severe pain in the back and kidneys, a burning sensation of the skin and face, headaches, nausea, restlessness, sweating, vomiting, and psychological phenomena such as the feeling of impending doom")
+bull = Animal.create(name: "Bull Shark", scientific_name: "Carcharhinus leucas", location: "Australian Waterways", danger_level: 8, description: "An aggressive shark that can inhabit both salt and freshwater. most dangerous in murky water")
+tigerSnake = Animal.create(name: "Mainland Tiger Snake", scientific_name: "Notechis scutatus", location: "South Eastern Australia", danger_level: 10, description: "venom contains procoagulants and neurotoxins, causing paralysis and preventing blood clotting")
+mulga = Animal.create(name: "Mulga Snake", scientific_name: "Pseudechis australis", location: "Throughout Australia", danger_level: 6, description: "delivers high amounts of less potent myotoxins, resulting in severe muscular damage")
+copperHead = Animal.create(name: "Lowlands Copperhead", scientific_name: "Austrelaps superbus", location: "South Eastern Australia", danger_level: 5, description: "conatins postsynaptic neurotoxins, causing weaker but quicker muscle paralysis")
+deathAdder = Animal.create(name: "Common Death Adder", scientific_name: "Acanthophis antarcticus", location: "Eastern and southern Australia", danger_level: 9, description: "Delivers one of the fastest bites of all snakes with a powerful neurotoxin that can kill within 6 hours")
+redBellied = Animal.create(name: "Red-Bellied black snake", scientific_name: "Pseudechis porphyriacus", location: "Eastern Coastal Australia", danger_level: 6, description: " Venom includes neurotoxins, myotoxins, and procoagulants, but antivenom is readilly availale and very effective")
 
 
