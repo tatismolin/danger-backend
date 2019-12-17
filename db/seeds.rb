@@ -9,6 +9,3 @@ stonefish = Animal.create(name: "Stonefish", scientific_name: "Synanceia verruco
 brown = Animal.create(name: "Brown Snake", scientific_name: "Pseudonaja textilis", location: "Eastern Australia", danger_level: 10, description: "The bite can be painless and difficult to detect. This is problematic because the venom can result in eventual paralysis and uncontrollable bleeding.", photo: "https://static.inaturalist.org/photos/9976454/original.jpg?1503573546")
 greatwhite = Animal.create(name: "Great White Shark", scientific_name: "Carcharodon carcharias", location: "Ocean Australia", danger_level: 10, description: "Vicous bites are administered by rows of up to 300 sharp and serrated triangular teeth.", photo: "https://oceana.org/sites/default/files/styles/lightbox_full/public/noaa_white_shark_2.jpg?itok=aK_qqtXR")
 funnel = Animal.create(name: "Sydney Funnel Web Spider", scientific_name: "Atrax robustus", location: "Sydney Australia", danger_level: 8, description: "The venom of a Sydney funnel web contains a neurotoxin component that affects the nervous system. The bite is very painful, and symptoms include sweating, tingling and muscle spasms.", photo: "https://cbsnews1.cbsistatic.com/hub/i/r/2016/03/08/992d678c-52b6-4c07-8c30-3db388d032d3/resize/620x465/b3c5d535cc399c5694fe13ed12ae3431/gettyimages-56714645.jpg")
-
-
-
